@@ -1,0 +1,21 @@
+add a minimize feature.
+
+shift all API calls to server.(doing)
+make the cryptoinfo draggable.(done)
+fix the cryptoinfo position.
+style crypto info(doing)
+solve the redux state append issue.
+solve the dynamic color in price card issue.
+use an hourglass effect to auto reload the api
+
+
+12/10/2021
+setup cryptonews section(done)
+display more coins in search component(done)
+displaying global data below navigations
+
+13/10/2021
+dynamic crypo news section using reduxS
+
+
+
