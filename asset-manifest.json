@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Dexter009/CryptoPrice/static/css/main.531d8810.chunk.css",
-    "main.js": "/Dexter009/CryptoPrice/static/js/main.62f0fe64.chunk.js",
-    "main.js.map": "/Dexter009/CryptoPrice/static/js/main.62f0fe64.chunk.js.map",
-    "runtime-main.js": "/Dexter009/CryptoPrice/static/js/runtime-main.6c3636aa.js",
-    "runtime-main.js.map": "/Dexter009/CryptoPrice/static/js/runtime-main.6c3636aa.js.map",
-    "static/css/2.7fbd5c54.chunk.css": "/Dexter009/CryptoPrice/static/css/2.7fbd5c54.chunk.css",
-    "static/js/2.471c4170.chunk.js": "/Dexter009/CryptoPrice/static/js/2.471c4170.chunk.js",
-    "static/js/2.471c4170.chunk.js.map": "/Dexter009/CryptoPrice/static/js/2.471c4170.chunk.js.map",
-    "index.html": "/Dexter009/CryptoPrice/index.html",
-    "static/css/2.7fbd5c54.chunk.css.map": "/Dexter009/CryptoPrice/static/css/2.7fbd5c54.chunk.css.map",
-    "static/css/main.531d8810.chunk.css.map": "/Dexter009/CryptoPrice/static/css/main.531d8810.chunk.css.map",
-    "static/js/2.471c4170.chunk.js.LICENSE.txt": "/Dexter009/CryptoPrice/static/js/2.471c4170.chunk.js.LICENSE.txt",
-    "static/media/bootstrap-icons.css": "/Dexter009/CryptoPrice/static/media/bootstrap-icons.dfd0ea12.woff2"
+    "main.css": "/CryptoPrice/static/css/main.531d8810.chunk.css",
+    "main.js": "/CryptoPrice/static/js/main.62f0fe64.chunk.js",
+    "main.js.map": "/CryptoPrice/static/js/main.62f0fe64.chunk.js.map",
+    "runtime-main.js": "/CryptoPrice/static/js/runtime-main.515f3c5c.js",
+    "runtime-main.js.map": "/CryptoPrice/static/js/runtime-main.515f3c5c.js.map",
+    "static/css/2.a784bc52.chunk.css": "/CryptoPrice/static/css/2.a784bc52.chunk.css",
+    "static/js/2.471c4170.chunk.js": "/CryptoPrice/static/js/2.471c4170.chunk.js",
+    "static/js/2.471c4170.chunk.js.map": "/CryptoPrice/static/js/2.471c4170.chunk.js.map",
+    "index.html": "/CryptoPrice/index.html",
+    "static/css/2.a784bc52.chunk.css.map": "/CryptoPrice/static/css/2.a784bc52.chunk.css.map",
+    "static/css/main.531d8810.chunk.css.map": "/CryptoPrice/static/css/main.531d8810.chunk.css.map",
+    "static/js/2.471c4170.chunk.js.LICENSE.txt": "/CryptoPrice/static/js/2.471c4170.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/CryptoPrice/static/media/bootstrap-icons.dfd0ea12.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c3636aa.js",
-    "static/css/2.7fbd5c54.chunk.css",
+    "static/js/runtime-main.515f3c5c.js",
+    "static/css/2.a784bc52.chunk.css",
     "static/js/2.471c4170.chunk.js",
     "static/css/main.531d8810.chunk.css",
     "static/js/main.62f0fe64.chunk.js"
