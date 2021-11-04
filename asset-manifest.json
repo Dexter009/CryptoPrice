@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CryptoPrice/static/css/main.8c6ed3e5.chunk.css",
+    "main.css": "/CryptoPrice/static/css/main.d2296aad.chunk.css",
     "main.js": "/CryptoPrice/static/js/main.ebacffaa.chunk.js",
     "main.js.map": "/CryptoPrice/static/js/main.ebacffaa.chunk.js.map",
     "runtime-main.js": "/CryptoPrice/static/js/runtime-main.515f3c5c.js",
@@ -10,7 +10,7 @@
     "static/js/2.471c4170.chunk.js.map": "/CryptoPrice/static/js/2.471c4170.chunk.js.map",
     "index.html": "/CryptoPrice/index.html",
     "static/css/2.a784bc52.chunk.css.map": "/CryptoPrice/static/css/2.a784bc52.chunk.css.map",
-    "static/css/main.8c6ed3e5.chunk.css.map": "/CryptoPrice/static/css/main.8c6ed3e5.chunk.css.map",
+    "static/css/main.d2296aad.chunk.css.map": "/CryptoPrice/static/css/main.d2296aad.chunk.css.map",
     "static/js/2.471c4170.chunk.js.LICENSE.txt": "/CryptoPrice/static/js/2.471c4170.chunk.js.LICENSE.txt",
     "static/media/bootstrap-icons.css": "/CryptoPrice/static/media/bootstrap-icons.dfd0ea12.woff2"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.515f3c5c.js",
     "static/css/2.a784bc52.chunk.css",
     "static/js/2.471c4170.chunk.js",
-    "static/css/main.8c6ed3e5.chunk.css",
+    "static/css/main.d2296aad.chunk.css",
     "static/js/main.ebacffaa.chunk.js"
   ]
 }
