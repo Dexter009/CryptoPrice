@@ -13,8 +13,8 @@ const SearchComponent = () =>{
                                     console.log(searchCoin);
                                     setLoading(true);
                                 }
-        
-    setTimeout(() =>PriceUpdate(),6000);
+    if (searchCoin == undefined) {   
+    setTimeout(() =>PriceUpdate(),6000);}
     useEffect(() => {
         
                     setLoading(false);

@@ -34,9 +34,9 @@ const FearAndGreedIndex = () =>{
         {
             let val = parseInt(sec);
             let hours = parseInt(val/ 3600);
-            let mins = parseInt((val/ 60) - hours * 60);
-            let seconds = parseInt(val - hours * 3600 - mins * 60) ;
-            return ""+hours+":"+mins+":"+seconds;                    
+            // let mins = parseInt((val/ 60) - hours * 60);
+            // let seconds = parseInt(val - hours * 3600 - mins * 60) ;
+            return ""+hours+" Hours"  ;                 
     }
     
     return(
