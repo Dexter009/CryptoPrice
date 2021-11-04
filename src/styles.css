@@ -395,6 +395,9 @@ body {
     font-size: 60px;
     color: #ccc;
 }
+.footer-icons i:hover{
+    color:azure;
+}
 /* ---------------------
         CryptoNews      
 ------------------------ */
@@ -466,13 +469,23 @@ body {
         font-size: 10px;
     }
     .logo img {
-        width: 25vw;
-        height: 30vh;
+        width: 20vw;
+        height: 20vh;
     }
     .trending-item{
         justify-content: space-around;
     }
     nav{
         flex-direction: column;
+    }
+    .search{
+        width: 100vw;
+    }
+    .footer{
+        justify-content: center;
+    }
+    .footer .logo img {
+        width: 15vw;
+        height: 20vh;
     }
   }

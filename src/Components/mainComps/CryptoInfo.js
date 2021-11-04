@@ -84,11 +84,11 @@ const CryptoInfo = ({id,onShowInfo}) =>{
 
     
     return(
-      <Draggable>
+      <Draggable cancel=".close">
         <div className = "info-card">
             
             <div className = "info-header">
-                <button onClick = {() => onShowInfo(false)}>X</button>
+                <button className = "close" onClick = {() => onShowInfo(false)}>X</button>
                 <h1>{coinInfo.name}</h1>
                 <button onClick = {() => setchartData(!chartData)}>Charts</button>
             </div>
@@ -107,7 +107,7 @@ const CryptoInfo = ({id,onShowInfo}) =>{
           } 
           
             <div className = "info-chart">
-              {chartData && <div ref={chartContainerRef} ></div>}
+              {chartData && <div class = "chart-wrapper" ref={chartContainerRef} ></div>}
                
               {chartData && <div className = "charts-time">
                 <button className = "btn btn-light" onClick = {() => {setchartTime(1);}}>1</button>

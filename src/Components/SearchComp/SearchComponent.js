@@ -10,11 +10,10 @@ const SearchComponent = () =>{
     const PriceUpdate = async () => {
                                     let data = await SearchUpdate();
                                     setsearchCoins(data.flat());
-                                    console.log(searchCoin);
                                     setLoading(true);
                                 }
-    if (searchCoin == undefined) {   
-    setTimeout(() =>PriceUpdate(),6000);}
+        
+    setTimeout(() =>PriceUpdate(),6000);
     useEffect(() => {
         
                     setLoading(false);

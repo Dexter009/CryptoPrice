@@ -27,7 +27,7 @@ store.subscribe(() => { let pagenum = store.getState().pagenum.rank;
  const Pupdate = async () => {
   setCoins(await PriceUpdate(choices.currency,choices.pagenum))
  }
- setInterval(() => Pupdate(),60000);
+
  React.useEffect(()=>{
    Pupdate();
     },[choices.currency,choices.pagenum]);
